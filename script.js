@@ -1,4 +1,4 @@
 const tombolSapa = document.getElementById('sapabutton')
 tombolSapa.addEventListener('click', function(){
-  alert('halo bang')
+  alert('halo bang');
 });
